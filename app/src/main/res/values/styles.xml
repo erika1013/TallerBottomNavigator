@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2E86C1  </item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyStyleTextInput">
+        <item name="android:textColorHint">@android:color/holo_orange_dark</item>
+        <item name="android:textSize">20sp</item>
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+        <item name="colorControlNormal">@android:color/holo_orange_dark</item>
+        <item name="colorControlActivated">@android:color/holo_orange_dark</item>
+    </style>
+
+    <style name="MyStyleButton">
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+    <style name="BottomNavigation">
+        <item name="android:background">@color/bnvColorBackground</item>
+        <item name="itemIconTint">@color/bnvColorIcon</item>
+        <item name="itemTextColor">@color/bnvColorTextIcon</item>
+    </style>
+    <style name="MyStile" >
+        <item name="android:textColorHighlight">@android:color/darker_gray</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>

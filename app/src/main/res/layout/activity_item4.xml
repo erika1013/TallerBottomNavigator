@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.i017114.tallernavigation.MainActivity"
+    android:background="@color/c3">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/border_radius"
+            android:layout_margin="10dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Para la realización del ejemplo identificamos Tm = 70. Debemos resolver el problema con valores iniciales"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:padding="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15dp"/>
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:background="@drawable/funo" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Determinar  el  valor de k tal  que T (3)  = 200.  La  ecuación anterior es tanto lineal como separable. Si separamos las variables"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:padding="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15dp"/>
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="@drawable/fdos" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Se obtiene:"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:padding="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15dp"/>
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:background="@drawable/ftres" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cuando t = 0, T = 300"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:padding="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15dp"/>
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="@drawable/fcuatro" />
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="@drawable/fcuatrod" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Por último la medición de T(3)=200 Conduce a"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:padding="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15dp"/>
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:background="@drawable/fcinco" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="                             :"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:padding="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="15dp"/>
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+    <!--Botones-->
+
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

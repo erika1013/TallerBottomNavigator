@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Enfriamiento de Newton</string>
+    <string name="txt_3seccion1">Es una comedia de situación estadounidense estrenada el 24 de septiembre de 2007 por la cadena CBS . La serie comienza con la llegada de Penny, aspirante a actriz, al apartamento vecino, que comparten Sheldon y Leonard, dos físicos que trabajan en el Instituto Tecnológico de California (Caltech). Leonard se enamora desde el primer momento de Penny.</string>
+    <string name="txt_3seccion2">SINOPSIS</string>
+    <string name="txt_3seccion11">Leonard y Sheldon son científicos destacados en Caltech , amigos a su vez de Howard y Raj, que son presentados como unos completos geeks, alejados de las inquietudes y problemas de la gente común. En el curso de la serie se muestra la dificultad de los protagonistas masculinos para relacionarse con personas de fuera de su entorno, principalmente de sexo femenino, dando lugar a situaciones cómicas.l</string>
+    <string name="txt_3seccion8">The Big Bang Theory</string>
+
+    <string name="str_m1">Salir</string>
+    <string name="str_ºm1">Serie</string>
+    <string name="str_m2">Opciones</string>
+    <string name="str_m3">Usuario</string>
+    <string name="str_ºm11"></string>
+    <string name="str_fragment_1">Favorio</string>
+    <string name="str_item_1">inicio</string>
+    <string name="str_item_2">FIN</string>
+    <string name="str_item_3">efdc</string>
+    <string name="str_nom">Nombre</string>
+    <string name="str_ape">Apellido</string>
+    <string name="str_bnt1">CancelarR</string>
+    <string name="app_a">Apellido</string>
+    <string name="app_name1">Edittext</string>
+    <string name="str_item1">Buscar</string>
+    <string name="str_item2">Configuracion</string>
+    <string name="app_c">Correo</string>
+    <string name="app_t">Telefono</string>
+    <string name="str_bntc">Aceptar</string>
+    <string name="str_item_11">Home</string>
+    <string name="str_item_22">Bibliography</string>
+    <string name="str_item_33">Authors</string>
+    <string name="str_2">La serie contiene una gran cantidad de situaciones muy cómicas y referencias a principios y teorías físicas auténticas, aunque simplificados al máximo para poder ser entendidos rápidamente por la audiencia que no posea estudios en física, matemáticas o ingeniería. También aparecen referencias cómicas a series de culto</string>
+    <string name="txt_3seccion12">La serie contiene una gran cantidad de situaciones muy cómicas y referencias a principios y teorías físicas auténticas, aunque simplificados al máximo para poder ser entendidos rápidamente por la audiencia que no posea estudios en física, matemáticas o ingeniería. También aparecen referencias cómicas a series de culto</string>
+    <string name="txt_3seccion3">hiuhdvmf</string>
+    >
+
+
+</resources>
